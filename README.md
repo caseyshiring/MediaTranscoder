@@ -6,11 +6,11 @@ A high-performance media transcoding library demonstrating efficient parallel pr
 
 MediaTranscoder is a .NET Core application that demonstrates efficient processing of large media files using advanced techniques:
 
-- ✅ Chunk-based file processing
-- ✅ Parallel execution pipeline
-- ✅ Memory-efficient algorithms
-- ✅ Performance benchmarking
-- ✅ Clean, maintainable architecture
+- Chunk-based file processing
+- Parallel execution pipeline
+- Memory-efficient algorithms
+- Performance benchmarking
+- Clean, maintainable architecture
 
 This project showcases professional C# development practices including SOLID principles, clean architecture, unit testing, and comprehensive documentation.
 
